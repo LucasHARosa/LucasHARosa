@@ -1,15 +1,13 @@
-# Opa, tudo certo? Eu sou o Lucas Henrique 👋
+# Opa, tudo certo? Sou Lucas Henrique 👋
 
-<div style="justify-content: center">
-- 🌱 I’m currently learning NodeJs, TypeScript, React, React Native and SQL
-  <br>
-  <div>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/lucas-henrique-alves-rosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </div>
-  <br>
-- ✅ I have experience in HTML, CSS, JavaScript, C/C++, Python and VHDL
+
+<div>
+<h1>Github Status</h1>
+ <a href="https://www.github.com/devjosecarlosteles">
+ <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasharosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
+  
 <div align="left">
   
 ## MY SKILLS
@@ -33,14 +31,19 @@
   </div>
   
 </div>
-
+<br> <br>
 
 <div>
-<h1>Github Status</h1>
- <a href="https://www.github.com/devjosecarlosteles">
- <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasharosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
+<div style="justify-content: center">
+- 🌱 I’m currently learning NodeJs, TypeScript, React, React Native and SQL
+  <br>
+  <div>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lucas-henrique-alves-rosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </div>
+  <br>
+- ✅ I have experience in HTML, CSS, JavaScript, C/C++, Python and VHDL
 </div>
+
 
 
   
