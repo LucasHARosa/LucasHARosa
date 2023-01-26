@@ -28,11 +28,9 @@
  </div>  
 <br> <br>
 
-- 🌱 I’m currently learning NodeJs, TypeScript, React, React Native and SQL
-  <br>
-- ✅ I have experience in HTML, CSS, JavaScript, C/C++, Python and VHDL
-  <br>
-- <a href="https://www.linkedin.com/in/lucas-henrique-alves-rosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Meus contatos
+<a href="https://www.linkedin.com/in/lucas-henrique-alves-rosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="lucashrosa99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
   
