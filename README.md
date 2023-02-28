@@ -1,4 +1,4 @@
-# Opa, tudo certo? Sou Lucas Henrique 👋
+# Opa, tudo certo? Bem vindo(a) ao meu GitHub 👋
 
 <div class="container" style="display: flex; justify-content: space-evenly; aling-items: center; height: 50vh; width: 100vw">
  <h1>Github Status</h1>
