@@ -1,12 +1,28 @@
 # Opa, tudo certo? Bem vindo(a) ao meu GitHub 👋
-
+## Um pouco sobre mim... <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
+<p><b>QUASE</b> formado em Engenharia Mecatrônica pela Universidade de Brasília (UnB). Vivo com tecnologia e sou bom em absorver novos conhecimentos. </p>
 <div class="container" style="display: flex; justify-content: space-evenly; aling-items: center; height: 50vh; width: 100vw">
- <h1>Github Status</h1>
  <a href="https://github.com/LucasHARosa">
   <img aling="center" src="https://github-readme-stats.vercel.app/api?username=lucasharosa&show_icons=true&theme=dracula"/>
   <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=dracula"/>
  </a>
 </div>
+<br>
+
+## Alguns fatos rápidos...
+
+<img  src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47sslqj45qrt4su03e3gg5a6i8jf9hn0xngdh2l97z&rid=giphy.gif&ct=g" align=right>
+
+- Tenho experiência em:  
+  - 🖥 Programação em diversas linguagens
+  - 📊 Análise de dados
+  - 🤖 Robótica
+  - 🎚 Programação de controladores e microcontroladores
+  - ✏ Desenho Mecânico
+- Atualmente estudo:
+  - 📱Desenvolvimento Web e Mobile
+  - 🧠 Deep Learning
+  - 👀 Visão computacional
 
 ## MY SKILLS
   
@@ -20,7 +36,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <br><br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
