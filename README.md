@@ -24,6 +24,8 @@
   - 🧠 Deep Learning
   - 👀 Visão computacional
 
+<br>
+
 ## MY SKILLS
   
  <div> 
