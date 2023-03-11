@@ -1,4 +1,4 @@
-# Opa, tudo certo? Bem vindo(a) ao meu GitHub 👋
+# Opa, tudo certo? Bem vindo(a) ao meu GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
 ## Um pouco sobre mim... <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 <p><b>QUASE</b> formado em Engenharia Mecatrônica pela Universidade de Brasília (UnB). Vivo com tecnologia e sou bom em absorver novos conhecimentos. </p>
 <div class="container" style="display: flex; justify-content: space-evenly; aling-items: center; height: 50vh; width: 100vw">
