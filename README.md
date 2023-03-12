@@ -1,17 +1,19 @@
 <h1> Opa, tudo certo? Bem vindo(a) ao meu GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 
-<h3 align='center'><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Lucas Rosa | 💻 Full Stack Developer | 🛸 Brasília , DF <img     src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align='center'><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Lucas Rosa | 💻 Full Stack Developer | Brasília , DF <img     src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<h2>Um pouco sobre mim... <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h2>
+<!--<h2>Um pouco sobre mim... <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h2>
 
 <p><b>QUASE</b> formado em Engenharia Mecatrônica pela Universidade de Brasília (UnB). Vivo com tecnologia e sou bom em absorver novos conhecimentos. </p>
 <br>
+-->
 <p align="center" >
 <a href="https://github.com/LucasHARosa">
    <img  src="https://github-readme-stats.vercel.app/api?username=lucasharosa&show_icons=true&theme=dracula"/>
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=dracula"/>
 </a>
 </p>
+
 
 
 <h2>Alguns fatos rápidos...</h2>
