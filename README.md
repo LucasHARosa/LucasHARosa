@@ -9,8 +9,8 @@
 -->
 <p align="center" >
 <a href="https://github.com/LucasHARosa">
-   <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&show_icons=true&theme=react"/>
-   <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=react"/>
+   <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&show_icons=true&theme=react&hide=contribs&card_width=400"/>
+   <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=react&langs_count=8&hide_progress=true"/>
 </a>
 </p>
 
