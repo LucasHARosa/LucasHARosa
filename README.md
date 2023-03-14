@@ -18,7 +18,7 @@
 
 <h2>Alguns fatos rápidos...</h2>
 
-<img  src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47sslqj45qrt4su03e3gg5a6i8jf9hn0xngdh2l97z&rid=giphy.gif&ct=g" align=right>
+<img  src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47sslqj45qrt4su03e3gg5a6i8jf9hn0xngdh2l97z&rid=giphy.gif&ct=g" align=right height="270">
 
 - Tenho experiência em:  
   - 🖥 Programação em diversas linguagens
