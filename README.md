@@ -20,16 +20,18 @@
 
 <img  src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47sslqj45qrt4su03e3gg5a6i8jf9hn0xngdh2l97z&rid=giphy.gif&ct=g" align=right height="270">
 
+
+- Atualmente estudo:
+  - 📱Desenvolvimento Web e Mobile
+  - 🧠 Deep Learning
+  - 👀 Visão computacional
 - Tenho experiência em:  
   - 🖥 Programação em diversas linguagens
   - 📊 Análise de dados
   - 🤖 Robótica
   - 🎚 Programação de controladores e microcontroladores
   - ✏ Desenho Mecânico
-- Atualmente estudo:
-  - 📱Desenvolvimento Web e Mobile
-  - 🧠 Deep Learning
-  - 👀 Visão computacional
+
 
 <br>
 
