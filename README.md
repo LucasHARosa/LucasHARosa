@@ -10,7 +10,7 @@
 <p align="center" >
 <a href="https://github.com/LucasHARosa">
    <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=react&hide=contribs"/>
-   <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=react&langs_count=8&hide_progress=true"/>
+   <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=react"/>
 </a>
 </p>
 
