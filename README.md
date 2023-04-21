@@ -27,7 +27,7 @@
   - 🧠 Deep Learning
   - 👀 Visão computacional
 - Tenho experiência em:  
-  - 🖥 Programação em diversas linguagens
+  - 🖥 Programação em diversas linguagens 
   - 📊 Análise de dados
   - 🤖 Robótica
   - 🎚 Programação de controladores e microcontroladores
