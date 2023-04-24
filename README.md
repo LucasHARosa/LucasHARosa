@@ -1,6 +1,4 @@
-<h1> Opa, tudo certo? Bem vindo(a) ao meu GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
-
-<h3 align='center'><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Lucas Rosa | 💻 Full Stack Developer | Brasília, DF <img     src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0099e0ff,100:77ee00ff&height=210&section=header&text=Lucas%20Henrique%20Alves%20Rosa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Desenvolvedor%20Web%20e%20Mobile&descAlignY=45&descSize=15&descAlign=75&customColorList=0,7,14,26">
 
 <!--<h2>Um pouco sobre mim... <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h2>
 
@@ -9,7 +7,7 @@
 -->
 <p align="center" >
 <a href="https://github.com/LucasHARosa">
-   <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=react&hide=contribs"/>
+   <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
    <!--<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=react&exclude_repo=UnB_Trabalhos"/>-->
 </a>
    
