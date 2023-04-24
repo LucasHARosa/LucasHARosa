@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:b0da9e,100:77ee00ff&height=210&section=header&text=Lucas%20Rosa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Desenvolvedor%20Web%20e%20Mobile&descAlignY=45&descSize=13&descAlign=65">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:b0da9e,100:77ee00ff&height=180&section=header&text=Lucas%20Rosa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Desenvolvedor%20Web%20e%20Mobile&descAlignY=45&descSize=13&descAlign=65">
 
 <!--<h2>Um pouco sobre mim... <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h2>
 
