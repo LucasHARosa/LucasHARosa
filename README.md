@@ -23,7 +23,7 @@
 
 
 - Atualmente estudo:
-  - 📱Desenvolvimento Web e Mobile
+  - 📱Desenvolvimento Web e Mobilee
   - 🧠 Deep Learning
   - 👀 Visão computacional
 - Tenho experiência em:  
