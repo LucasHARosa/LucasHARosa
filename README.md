@@ -24,7 +24,7 @@
 
 - Atualmente estudo:
   - 📱Desenvolvimento Web e Mobile
-  - 🧠 Deep Learning
+  - 🧠 Machine Learning
   - 👀 Visão computacional
 - Tenho experiência em:  
   - 🖥 Programação em diversas linguagens 
