@@ -9,6 +9,7 @@
 <p><b>QUASE</b> formado em Engenharia Mecatrônica pela Universidade de Brasília (UnB). Vivo com tecnologia e sou bom em absorver novos conhecimentos. </p>
 <br>
 -->
+<br/>
 <p align="center" >
 <a href="https://lucasharosa.github.io/">
    <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
