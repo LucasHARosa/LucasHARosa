@@ -2,6 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:b0da9e,100:77ee00ff&height=180&section=header&text=Lucas%20Rosa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Desenvolvedor%20Web%20e%20Mobile&descAlignY=45&descSize=13&descAlign=65">
 </a>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLucasHARosa&label=%F0%9F%A5%87%20VISITANTES&countColor=%236ad600&labelStyle=none)
+
 <!--<h2>Um pouco sobre mim... <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?153184430"></h2>
 
 <p><b>QUASE</b> formado em Engenharia Mecatrônica pela Universidade de Brasília (UnB). Vivo com tecnologia e sou bom em absorver novos conhecimentos. </p>
@@ -11,6 +13,10 @@
 <a href="https://lucasharosa.github.io/">
    <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
    <!--<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=react&exclude_repo=UnB_Trabalhos"/>-->
+</a>
+
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-github-profile-ruddy-chi.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
    
 </p>
