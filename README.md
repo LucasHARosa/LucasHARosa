@@ -44,7 +44,7 @@
 
 <br>
 
-<h2> MY SKILLS</h2>
+<h2>SKILLS</h2>
 
 <div> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
