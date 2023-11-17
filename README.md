@@ -12,7 +12,9 @@
 <br/>
 <p align="center" >
 <a href="https://lucasharosa.github.io/">
-   <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
+   <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=chartreuse-dark&hide=contribs&rank_icon=percentil"/>
+   
+   
    <!--<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasharosa&layout=compact&theme=react&exclude_repo=UnB_Trabalhos"/>-->
 </a>
 
@@ -79,4 +81,10 @@
 
 <a href="https://www.linkedin.com/in/lucas-henrique-alves-rosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="lucashrosa99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.me/5561992836376"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
+<!--
 ![snake animation](https://github.com/<LucasHARosa>/<LucasHARosa>/blob/output/github-contribution-grid-snake2.svg)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasHARosa" />
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasHARosa)]
+-->
