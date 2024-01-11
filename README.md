@@ -67,4 +67,26 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasHARosa" />
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasHARosa)]
+<br>
+// Estilização :lipstick:
+// Refatoração :recycle:
+// adicionando testes :white_check_mark:
+// Adicionando uma feature :sparkles:
+// Melhorar a estrutura/formato do código :art:
+// Mova ou renomeie recursos :truck:
+// Correção de bug :bug:
+// Nova Versão :Label:
+// Melhorando desempenha :zap:
+// Configuração :wrench:
+// Acessibilidade :wheelchair:
+// Tradução :alien:
+// Revertendo mudanças :rewind:
+// Merge :twisted_rightwards_arrows:
+// Escreva código ruim que precisa ser melhorado. :poop:
+// Trabalho em progresso :construction:
+// Segurança :lock:
+// Documentação :memo:
+// Release :bookmark:
+// Responsivo :iphone:
+// Adicione ou atualize animações e transições :dizzy:
 -->
