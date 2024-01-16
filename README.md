@@ -83,7 +83,7 @@
 // Melhorar a estrutura/formato do código :art:
 // Mova ou renomeie recursos :truck:
 // Correção de bug :bug:
-// Nova Versão :Label:
+// Nova Versão :label:
 // Melhorando desempenha :zap:
 // Configuração :wrench:
 // Acessibilidade :wheelchair:
