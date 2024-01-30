@@ -32,15 +32,17 @@
 
 
 - Atualmente trabalho com:
-  - 📱 Desenvolvimento Web e Mobile
-  - 🧠 Machine Learning
-  - 👀 Visão computacional
-- Tenho experiência em:  
-  - 🖥 Programação em diversas linguagens 
-  - 📊 Análise de dados
-  - 🤖 Robótica
-  - 🎚 Programação de controladores e microcontroladores
-  - ✏ Desenho Mecânico
+  - 📱 Desenvolvimento Front-End
+  - 💾​ Desenvolvimento Back-End
+  
+- Tenho experiência em:
+   - 🧠 Machine Learning  
+   - 👀 Visão computacional
+   - 🖥 Programação em diversas linguagens 
+   - 📊 Análise de dados
+   - 🤖 Robótica
+   - 🎚 Programação de controladores e microcontroladores
+   - ✏ Desenho Mecânico
 
 
 
