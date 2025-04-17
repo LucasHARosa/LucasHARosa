@@ -11,7 +11,7 @@
 -->
 <br/>
 <p align="center" >
-<a href="https://lucasharosa.github.io/">
+<a href="https://lucasrosa.dev.br/">
    <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasharosa&card_width=200&show_icons=true&theme=chartreuse-dark&hide=contribs&rank_icon=percentil"/>
    
    
