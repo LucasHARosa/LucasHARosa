@@ -43,7 +43,7 @@
 <h2>Nesse perfil você encontra projetos com:</h2>
 
 <div align="center" >
-<a href="https://skillicons.dev">
+<a href="https://lucasrosa.dev.br/">
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,react,next,nodejs,java,spring,nest,github,jest,vite,materialui,styledcomponents,tailwind,bootstrap,mongodb,postgres,discord,css,html,docker,figma" />
 </a>
 <br />
