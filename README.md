@@ -66,4 +66,4 @@
 <br />
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasharosa&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucasharosa&theme=onestar&&title=-Stars,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
