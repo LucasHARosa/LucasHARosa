@@ -25,17 +25,16 @@
 
 
 - Atualmente trabalho com:
-  - 📱 Desenvolvimento Front-End
-  - 💾​ Desenvolvimento Back-End
+  - 📱 Desenvolvedor Front-End
+  - 💾​ Desenvolvedor Back-End
   
 - Tenho experiência em:
    - 🧠 Machine Learning  
    - 👀 Visão computacional
-   - 🖥 Programação em diversas linguagens 
+   - 🖥 Programação competitiva
    - 📊 Análise de dados
    - 🤖 Robótica
    - 🎚 Programação de controladores e microcontroladores
-   - ✏ Desenho Mecânico
 
 
 
