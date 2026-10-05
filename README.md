@@ -22,7 +22,7 @@ Atuo no desenvolvimento de produtos de ponta a ponta, com experiência profissio
 
 Minha experiência inclui diferentes contextos, como **fintech, plataformas web, logística, sistemas corporativos, IoT e aplicações mobile em produção**.
 
-* **Back-end:** Java / Spring Boot · Node.js / NestJS · Python / FastAPI / Django · Go
+* **Back-end:** Java/Spring Boot · Node.js/NestJS · Python/FastAPI/Django · Go
 * **Front-end:** React · Next.js · TypeScript
 * **Mobile:** React Native · Expo
 * **Dados:** PostgreSQL · DB2 · MongoDB · Redis
