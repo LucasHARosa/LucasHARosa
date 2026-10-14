@@ -150,9 +150,7 @@ Minha experiência inclui diferentes contextos, como **fintech, plataformas web,
 
 <div align="center">
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile-ruddy-chi.vercel.app/api?theme=dark" alt="Tocando agora no Spotify" />
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12142448468&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=12142448468&redirect=true)
 
 </div>
 
