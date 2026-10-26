@@ -141,11 +141,17 @@ Minha experiência inclui diferentes contextos, como **fintech, plataformas web,
 ![Contribuições 3D](./profile-3d-contrib/profile-night-green.svg)
 
 </div>
+<div align="center">
+  
+ [![Trilha da carreira](https://github-timeline.frangolab.com/embed/LucasHARosa/trilha.svg?paleta=ambar&lang=pt-BR)](https://github-timeline.frangolab.com/u/LucasHARosa?lang=pt-BR)
+ 
+</div>
 
-|                                                                                                                                                                                                               |                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Tempo produtivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasHARosa\&theme=zenburn\&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Detalhes do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasHARosa\&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+<div align="center">
+  
+[![Rio de linguagens](https://github-timeline.frangolab.com/embed/LucasHARosa/linguagens.svg?paleta=por-do-sol&lang=pt-BR)](https://github-timeline.frangolab.com/u/LucasHARosa?lang=pt-BR)
 
+</div>
 ## Agora no Spotify
 
 <div align="center">
