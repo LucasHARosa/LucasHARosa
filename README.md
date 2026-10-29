@@ -152,6 +152,7 @@ Minha experiência inclui diferentes contextos, como **fintech, plataformas web,
 [![Rio de linguagens](https://github-timeline.frangolab.com/embed/LucasHARosa/linguagens.svg?paleta=por-do-sol&lang=pt-BR)](https://github-timeline.frangolab.com/u/LucasHARosa?lang=pt-BR)
 
 </div>
+
 ## Agora no Spotify
 
 <div align="center">
